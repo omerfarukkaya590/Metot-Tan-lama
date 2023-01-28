@@ -1,1 +1,1 @@
-# Metot-Tan-lama
+# Metot-Tanılama tekrar yapıldı 
